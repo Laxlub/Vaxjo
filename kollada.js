@@ -1,6 +1,6 @@
 
-municipality = 1283;
-municipality_name = "Helsingborgs stad"
+municipality = 0780;
+municipality_name = "Växjö kommun"
 metrics = [          
   {"kpi": "N01951", "title":"Invånare totalt, antal ", "description":"Antal invånare totalt den 31/12. Källa: SCB."},
   {"kpi": "N01804", "title":"Födda, antal ", "description":"Antal födda under året. Källa: SCB."},
